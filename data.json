@@ -7,8 +7,8 @@
         "img2": "https://i.ibb.co/TrVkhR0/wheel2.png",
         "img3": "https://i.ibb.co/9tyTgYy/wheel3.png",
         "link": "https://wheelbase-bed0c.web.app",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Wheelbase-Client-Side",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Wheelbase-Server-Side"
+        "github1":"https://github.com/Mahir-Ahmed-250/Wheelbase-Client-Side",
+        "github2":"https://github.com/Mahir-Ahmed-250/Wheelbase-Server-Side"
     },
     {
         "id": 2,
@@ -18,8 +18,8 @@
         "img2": "https://i.ibb.co/BfVn2r9/travelo2.png",
         "img3": "https://i.ibb.co/3h9Jx2n/travelo3.png",
         "link": "https://travelo-f3c3f.web.app/",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Travelo-Client-Side",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Travelo-Server-Side"
+        "github1":"https://github.com/Mahir-Ahmed-250/Travelo-Client-Side",
+        "github2":"https://github.com/Mahir-Ahmed-250/Travelo-Server-Side"
     },
     {
         "id": 3,
@@ -29,8 +29,8 @@
         "img2": "https://i.ibb.co/RjWdNVC/studio2.png",
         "img3": "https://i.ibb.co/znBsKtB/studio3.png",
         "link": "https://www.studiospacejam.com/",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Studio-Space-Jam",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Studio-Space-Jam"
+        "github1":"https://github.com/Mahir-Ahmed-250/Studio-Space-Jam",
+        "github2":"https://github.com/Mahir-Ahmed-250/Studio-Space-Jam"
     },
     {
         "id": 4,
@@ -40,8 +40,8 @@
         "img2": "https://i.ibb.co/mcnRdNq/dental2.png",
         "img3": "https://i.ibb.co/Nj73sZt/dental3.png",
         "link": "https://dental-care-a317b.web.app/",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Dental-Care",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Dental-Care"
+        "github1":"https://github.com/Mahir-Ahmed-250/Dental-Care",
+        "github2":"https://github.com/Mahir-Ahmed-250/Dental-Care"
     },
     {
         "id": 5,
@@ -51,8 +51,8 @@
         "img2": "https://i.ibb.co/444H29s/code2.png",
         "img3": "https://i.ibb.co/F8n7L5V/code3.png",
         "link": "https://codeschool00.netlify.app/",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Code-School",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Code-School"
+        "github1":"https://github.com/Mahir-Ahmed-250/Code-School",
+        "github2":"https://github.com/Mahir-Ahmed-250/Code-School"
         
     },
     {
@@ -63,7 +63,7 @@
         "img2": "https://i.ibb.co/ZVzKRxx/cbr2.png",
         "img3": "https://i.ibb.co/Nmk7zyb/cbr3.png",
         "link": "https://honda-global.netlify.app/",
-        "github-client":"https://github.com/Mahir-Ahmed-250/Code-School",
-        "github-server":"https://github.com/Mahir-Ahmed-250/Code-School"
+        "github1":"https://github.com/Mahir-Ahmed-250/Code-School",
+        "github2":"https://github.com/Mahir-Ahmed-250/Code-School"
     }
 ]
