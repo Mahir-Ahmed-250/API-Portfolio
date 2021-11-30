@@ -3,8 +3,7 @@
     {
         "id": 1,
         "name": "Wheelbase",
-        "description":"
-        In this website there are two role, one is user and another is admin.
+        "description":"In this website there are two role, one is user and another is admin.
         User can sign up to the website by using email and also with gmail account.
         In order to buy any product, user have to login into the website otherwise it will redirect to login page and after successfully login user again redirect to his/her desire destination .
         After successfully buy a product user can find out his/her order in My Orders section which is in the dashboard and also can remove his/her ordered product.
